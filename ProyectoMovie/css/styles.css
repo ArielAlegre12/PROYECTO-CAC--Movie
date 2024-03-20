@@ -1,14 +1,21 @@
+#home{
+    text-decoration: none;
+}
 #tendencias{
     text-decoration: none;
 }
 #registro{
     text-decoration: none;
 }
-#inicioSesion{
+#inicio{
     text-decoration: none;
+    background-color: black;
+    position: relative;
+    left: 1000px;
+
 }
 
 img{
     width: 200px;
-    height: 250;
+    height: 250px;
 }
